@@ -1,11 +1,15 @@
 #EXTM3U
  
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
-https://d39q.short.gy/SpTamil
+https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+ 
+
+#EXTINF:-1 tvg-id="SunTV.in" tvg-logo="http://fkn01.cloudfkn.com.br/stalker_portal/misc/logos/320/264.png" group-title="FKN-TAMIL",SUN TV | TM 
+http://itspkg.in/fkn/play.php?tv=7295
 
 
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
-https://d39q.short.gy/SpTamil
+https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
 https://jio.bulbtv.online/stream.m3u8?id=1984&itoken=ddfd265e2f4d70b19df31d9a5f9568aa31708f6535babc9c5677cfa3b8f5720ce8681626140cdbf2
@@ -17,7 +21,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallbac
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
  
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
-https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/cR3SKVpsHWc/expires/1705855385466/srcIp/49.206.119.194/urls/185.226.53.53/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowerstvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowers
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
@@ -44,12 +48,49 @@ http://148.113.5.31:8106/play/a00u/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=521
 #EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+
+
+#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV
+https://kingkohli.pages.dev/Play/Kid/HungamaTV.m3u8
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=587
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids",Super Hungama
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=797
+#EXTINF:-1 tvg-id="ts797" tvg-logo="https://tatalogo.pages.dev/797.png" group-title="Tamil",Zee Thirai
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=99
+#EXTINF:-1 tvg-id="ts99" tvg-logo="https://tatalogo.pages.dev/99.png" group-title="Tamil",D Tamil
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=723
+#EXTINF:-1 tvg-id="ts723" tvg-logo="https://tatalogo.pages.dev/723.png" group-title="Tamil",Tamil Naaptol
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manifest.mpd
+
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=78
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
  
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=576
+#EXTINF:-1 tvg-id="ts576" tvg-logo="https://tatalogo.pages.dev/576.png" group-title="Malayalam",Media One
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=235
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports",Star Sports 2 HD
