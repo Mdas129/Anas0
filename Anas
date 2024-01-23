@@ -25,7 +25,7 @@ https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/170601962
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowerstvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowers
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
  
-#EXTINF:-tvg-logo="https://tatalogo.pages.dev/521.png"group-title="Tamil",Sun TV HD
+#EXTINF:-tvg-logo="https://tatalogo.pages.dev/521.png"group-title="Tamil",Sun TV SD
 https://ctrl.laotv.la/live/SunTV/index.m3u8
 
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gOeKUeEFfC28tst3EaH2i44LS-woNTvjwA&usqp=CAU"group-title="Malayalam", Manorama news
@@ -47,7 +47,7 @@ http://148.113.5.31:8106/play/a00u/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=521
-#EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+#EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Anas Sun TV HD
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
 
 
@@ -63,6 +63,18 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifes
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=797
 #EXTINF:-1 tvg-id="ts797" tvg-logo="https://tatalogo.pages.dev/797.png" group-title="Tamil",Zee Thirai
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=78
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd?begin=20240116T060000&end=20240124T060000
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=521
+#EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd?begin=20240116T060000&end=20240124T060000
 
 
 
@@ -189,3 +201,9 @@ http://148.113.5.31:8106/play/a00t/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=616
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="Knowledge",History TV18 HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=114
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",Disney Channel
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd?begin=20240116T060000&end=20240124T060000
