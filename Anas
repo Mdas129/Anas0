@@ -1,15 +1,13 @@
 #EXTM3U
  
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=923
-#EXTINF:-1 tvg-id="ts923" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="sports",Sp Tamil
-https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Cx35fPgz/Screenshot-2024-01-16-01-01-17-59-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Portal",Star Sports Tamil [ Watch ]
+https://kingkohli.pages.dev/Play/Tamil_Watch_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Cx35fPgz/Screenshot-2024-01-16-01-01-17-59-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Portal",Star Sports Tamil [ TP.TV ]
+http://itspkg.in/ttv/play.php?tv=12070
  
 
-#EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
-https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
- 
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
 https://jio.bulbtv.online/stream.m3u8?id=1984&itoken=ddfd265e2f4d70b19df31d9a5f9568aa31708f6535babc9c5677cfa3b8f5720ce8681626140cdbf2
  
@@ -20,7 +18,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallbac
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
  
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
-https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+https://kingkohli.pages.dev/Play/Tamil_Watch_index.m3u8
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowerstvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowers
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
