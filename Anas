@@ -29,6 +29,18 @@ https://ctrl.laotv.la/live/SunTV/index.m3u8
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gOeKUeEFfC28tst3EaH2i44LS-woNTvjwA&usqp=CAU"group-title="Malayalam", Manorama news
 https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
  
+
+#EXTINF:-1 tvg-id="1080" tvg-name="Chinttu TV" tvg-logo="https://te.legra.ph/file/6b8910e5b6c88b0bcfb1e.jpg" group-title="Denver KIDS PACK",Chutti TV
+https://kingkohli.pages.dev/Play/Kid/ChuttiTV.m3u8
+ 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=238
+#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11159-j99h64r4-v1/imageContent-11159-j99h64r4-m1.jpg" group-title="Denver KIDS PACK",Cartoon Network
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+
+ 
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/395.png"group-title="Malayalam",Mazhavil Manorama HD 
 https://livectv3.phando.com/8071/playlist.m3u8
  
