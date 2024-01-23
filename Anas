@@ -1,6 +1,9 @@
 #EXTM3U
  
-#EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=923
+#EXTINF:-1 tvg-id="ts923" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="sports",Sp Tamil
 https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/V_lGUZ6sLhg/expires/1706019620672/srcIp/183.83.148.110/urls/185.226.52.96/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
  
 
