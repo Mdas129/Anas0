@@ -5,6 +5,10 @@
 https://kingkohli.pages.dev/Play/Tamil_Watch_index.m3u8
  
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/ind_vs_eng_test_today_series_preview_carousel-1706121361609.jpg" group-title="Sports",IND vs ENG live 4K Tamil Live
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_indvseng_test01day01250124/master.m3u8
+ 
+
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
 https://jio.bulbtv.online/stream.m3u8?id=1984&itoken=ddfd265e2f4d70b19df31d9a5f9568aa31708f6535babc9c5677cfa3b8f5720ce8681626140cdbf2
  
