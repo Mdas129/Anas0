@@ -66,7 +66,8 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=521
 #EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
+    "channel_entitlements": [
 
 
 
